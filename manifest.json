@@ -1,0 +1,24 @@
+{
+    "name": "私人记账本",
+    "short_name": "记账本",
+    "description": "个人记账应用，支持周期预算管理和消费分析",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#F5F7FA",
+    "theme_color": "#4A90E2",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💰</text></svg>",
+            "sizes": "192x192",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💰</text></svg>",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+        }
+    ],
+    "categories": ["finance", "utilities"],
+    "lang": "zh-CN"
+}
